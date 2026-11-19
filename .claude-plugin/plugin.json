@@ -1,0 +1,12 @@
+{
+  "name": "concordia",
+  "version": "1.0.0",
+  "description": "Plugin oficial do Concordia ERP para Claude Code via servidor MCP remoto com autenticação OAuth 2.1.",
+  "author": {
+    "name": "Immaculata Digital",
+    "url": "https://concordiaerp.com"
+  },
+  "homepage": "https://concordiaerp.com",
+  "repository": "https://github.com/Immaculata-Digital/concordia-plugin",
+  "keywords": ["concordia", "erp", "crm", "vendas", "mcp"]
+}

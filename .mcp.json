@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "concordia": {
+      "type": "http",
+      "url": "https://mcp.concordiaerp.com/mcp"
+    }
+  }
+}
