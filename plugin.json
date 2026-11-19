@@ -3,7 +3,7 @@
   "displayName": "Concordia ERP",
   "version": "1.0.0",
   "description": "Conecte sua IA diretamente ao Concordia ERP para gerenciar produtos, pedidos, clientes, eventos, financeiro, cardápio, projetos e sites.",
-  "logo": "https://app.concordiaerp.com/icons/pwa-192x192.png",
+  "logo": "./assets/logo.png",
   "homepage": "https://concordiaerp.com",
   "repository": "https://github.com/Immaculata-Digital/concordia-plugin",
   "author": {
@@ -15,5 +15,12 @@
     "Consultar a identidade visual e cores da minha marca no Concordia",
     "Listar os leads e submissões de formulários do meu site"
   ],
-  "keywords": ["concordia", "erp", "ecommerce", "crm", "vendas", "mcp"]
+  "keywords": [
+    "concordia",
+    "erp",
+    "ecommerce",
+    "crm",
+    "vendas",
+    "mcp"
+  ]
 }
