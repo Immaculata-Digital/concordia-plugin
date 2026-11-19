@@ -2,7 +2,7 @@
 
 **Última atualização:** 19 de novembro de 2026  
 **Controlador:** Immaculata Digital (`concordiaerp.com`)  
-**Contato / Encarregado (DPO):** contato@concordiaerp.com
+**Contato / Encarregado (DPO):** immaculatadigital@gmail.com
 
 ---
 
@@ -27,7 +27,7 @@ Ao autorizar a conexão MCP, os dados retornados pelas ferramentas que você sol
 Você pode, a qualquer momento:
 - **Revogar o acesso imediatamente** em **Integrações → API Tokens** no Concordia ERP.
 - **Restringir permissões** específicas do token MCP gerado.
-- Solicitar confirmação de tratamento, acesso, correção ou eliminação de dados pelo e-mail `contato@concordiaerp.com`.
+- Solicitar confirmação de tratamento, acesso, correção ou eliminação de dados pelo e-mail `immaculatadigital@gmail.com`.
 
 ## 6. Segurança
 Todas as comunicações ocorrem exclusivamente via HTTPS/TLS, com autenticação OAuth 2.1 + PKCE (`S256`), cabeçalhos de segurança (`Helmet`), proteção contra *open redirect* e limitação de taxa (*rate limiting*).

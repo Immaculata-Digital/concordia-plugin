@@ -23,4 +23,4 @@ Agentes de Inteligência Artificial podem interpretar instruções de forma impr
 O Concordia MCP é fornecido "como está" (*as is*), podendo receber atualizações, novas ferramentas ou ajustes de compatibilidade a qualquer momento.
 
 ## 6. Contato
-Dúvidas ou solicitações de suporte: `contato@concordiaerp.com`.
+Dúvidas ou solicitações de suporte: `immaculatadigital@gmail.com`.
